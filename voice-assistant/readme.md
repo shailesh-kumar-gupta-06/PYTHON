@@ -23,7 +23,7 @@ A Python-based voice assistant that listens to user commands and performs tasks 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/voice-assistant.git
+git clone https://github.com/shailesh-kumar-gupta-06/voice-assistant.git
 cd voice-assistant
 pip install -r requirements.txt
 ```
