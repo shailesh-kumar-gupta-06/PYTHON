@@ -34,9 +34,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 📸 Screenshots
-
-(Add screenshots here)
 
 ## ⚠️ Disclaimer
 
